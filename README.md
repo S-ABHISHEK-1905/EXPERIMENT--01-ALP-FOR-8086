@@ -2,7 +2,7 @@
 ~~~
 Name : S.ABHISHEK
 Roll no : 212221230002
-Date of experiment : 9/9/2022
+Dept. : B.tech AI & DS
 ~~~
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
